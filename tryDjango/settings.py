@@ -25,7 +25,7 @@ SECRET_KEY = '(^fa((@lqzg*1mf#41^2^so8x291)(2v2e1v8!6l=*f=+l6#i*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'spotify-metadata-django.herokuapp.com']
 
 
 # Application definition
